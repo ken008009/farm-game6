@@ -1,1 +1,11 @@
+# 依赖
 node_modules
+
+# 构建产物（Vite 默认输出 dist，部署目录为 game）
+dist/
+/game/
+game.zip
+
+# 系统与日志
+.DS_Store
+*.log
